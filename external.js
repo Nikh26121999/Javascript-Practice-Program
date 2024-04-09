@@ -1,0 +1,1 @@
+doucument.write("inside external JS file");
